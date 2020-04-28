@@ -9,7 +9,7 @@ output: html_document
 library(tidyverse)
 library(ggplot2)
 ```
-NOTE: **https://github.com/monkeyevospark/Carbajal_Capstone2.0/ this is my github link. I was unable to make it work to look like a website, it just kept redirecting to backend of github**
+NOTE: **https://github.com/monkeyevospark/Carbajal_Capstone/ this is my github link. I was unable to make it work to look like a website, it just kept redirecting to backend of github**
 
 1) Provide a brief background and significance about a specific research problem that interests you. It could be project you’re involved with now, or a rotation project, or something you’d like to work on. The reader will need to understand enough background to make sense of the experiment you propose below. Keep it brief. In one short paragraph.
 
